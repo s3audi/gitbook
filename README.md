@@ -1,8 +1,6 @@
 # Initial page
 
-
-
-
+<figure><img src=".gitbook/assets/Professional-Headshot-Poses-Blog-Post.jpg" alt=""><figcaption></figcaption></figure>
 
 Açıklama yapalım
 
