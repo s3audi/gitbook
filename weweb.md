@@ -4,6 +4,10 @@ description: Akademiye bakıyoruz.
 
 # Weweb
 
+[ANASAYFA](weweb.md#what-is-snyk)
+
+
+
 
 
 {% embed url="https://www.youtube.com/watch?v=flW75yaNTnM&t=307s" %}

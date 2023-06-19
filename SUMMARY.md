@@ -3,22 +3,22 @@
 * [Initial page](README.md)
 * [Weweb](weweb.md)
 * [Ders 2](ders-2.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
-* [Page 4](page-4.md)
+* [Ders 3](ders-3.md)
+* [Ders 4](ders-4.md)
+* [Ders 5](ders-5.md)
 
-## Group 1
+## 🚘 Group 1
 
-* [Page 5](group-1/page-5.md)
+* [Ders 6](group-1/ders-6.md)
 
 ***
 
-* [Page 6](page-6.md)
-* [Page 7](page-7.md)
+* [Ders 7](ders-7.md)
+* [Ders 8](ders-8.md)
 
-## Group 2
+## 🚘 Group 2
 
-* [Page 8](group-2/page-8.md)
+* [Ders 9](group-2/ders-9.md)
 
 ***
 

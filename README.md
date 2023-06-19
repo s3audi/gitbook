@@ -18,9 +18,11 @@ A good security process secures each of these components where they are built an
 
 
 
-**adsfgasgdasgasg**&#x20;
+[Snyk’s developer-first approach](ders-3.md)
 
+Developers now assemble applications with a combination of proprietary and open-source code, run that code in contain&#x20;
 
+[ANASAYFA](./#what-is-snyk)
 
 
 
