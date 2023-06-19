@@ -4,7 +4,7 @@ description: Akademiye bakıyoruz.
 
 # Weweb
 
-[ANASAYFA](weweb.md#what-is-snyk)
+[ANASAYFA](./)
 
 
 

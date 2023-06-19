@@ -1,6 +1,6 @@
 # Ders 3
 
-[ANASAYFA](ders-3.md#what-is-snyk)&#x20;
+[ANASAYFA](./)
 
 ## Anasayfa
 
